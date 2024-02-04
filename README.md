@@ -6,4 +6,4 @@ This project requires `Jupyter` to be installed.
 
 
 
-[A confusion matrix of model prediction vs actual of spam emails.](https://gist.github.com/admeeer/b1fb2983607322ad01db0bd454c4fdae#file-cfm-png)
+![A confusion matrix of model prediction vs actual of spam emails.](https://gist.github.com/admeeer/b1fb2983607322ad01db0bd454c4fdae#file-cfm-png)
